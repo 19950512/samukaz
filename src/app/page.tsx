@@ -48,6 +48,7 @@ export default function Home() {
             Read our docs
           </a>
         </div>
+        <h2 className="tracking-widest text-blue-500 md:text-lg dark:text-blue-400">Samukaz GOD</h2>
       </main>
       <footer className="row-start-3 flex gap-6 flex-wrap items-center justify-center">
         <a
